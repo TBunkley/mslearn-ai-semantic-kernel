@@ -89,7 +89,7 @@ Now that you deployed a model, you can use the Semantic Kernel SDK to create a c
     **Python**
     ```
     python -m venv labenv
-    ./labenv/bin/Activate.ps1
+    ./labenv/Scripts/Activate.ps1
     pip install python-dotenv semantic-kernel[azure] 
     ```
 
